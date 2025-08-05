@@ -1,4 +1,7 @@
 # verilog-memory-design
+This project explores fundamental memory architectures implemented in Verilog HDL, focusing on both Single Port RAM and Dual Port RAM designs. The goal was to understand how memory behaves in digital systems, simulate their operation, and analyze performance using waveforms.
+
+
 🧠 Key Learnings:
 **🟩 Single Port RAM**
 1)Implements basic read/write memory using one access port.
